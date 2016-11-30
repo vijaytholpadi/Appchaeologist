@@ -1,2 +1,2 @@
 # Appchaeologist
-⚒ A simple shell script to extract contents of a IPA file ⚒
+⚒ A simple shell script to extract contents of an IPA file ⚒
