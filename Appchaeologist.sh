@@ -1,5 +1,3 @@
-#!/bin/zsh
-
 #Inputs 
 #(Might be direct filename or path with filename)
 INPUT_PARAMETER=$1
