@@ -33,5 +33,6 @@ Most of us (atleast the beginners) wonder how things are built under the hood wh
 - Before using it on an IPA file, we will need to make sure that the Filename does not contain any `.` characters in its name except for the file extension. ('.' occuring in versioning will need to be stripped out)
 - Versioning detail in the filename will need to be stripped out. i.e. The IPA filename will need to match your `$(PRODUCT_NAME)`
 
-
 ---
+## Thanks
+Many thanks to my colleague [Jayanth](https://github.com/jaymanklu) for being an extra pair of eyes checking the sanity of this project.
