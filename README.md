@@ -1,5 +1,7 @@
 # Appchaeologist
 
+⚒ A simple shell script to extract contents of an IPA file for analysis ⚒
+
 ### Under Construction ⚠️
 
 
@@ -10,7 +12,7 @@
 
 
 ## Background
-Most of us (atleast the beginners) wonder how things are built under the hood when we look at certain apps. It may be the frameworks that an app is using 
+Most of us (atleast the beginners) wonder how things are built under the hood when we look at certain apps. It may be the frameworks that an app is using OR the kind of images and assets that might be bundled as part of the package. This shell script acts as a single command to execute on your target IPA and extract its contents.
 
 
 ---
